@@ -1,0 +1,27 @@
+# Ignore Config folder
+Config/
+
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+
+# Build files
+dist/
+build/
+
+# Dependency directories (if using yarn)
+.yarn/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# npm package lock file (optional, only if you don't want to track it)
+package-lock.json
+yarn.lock
